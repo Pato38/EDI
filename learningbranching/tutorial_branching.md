@@ -25,3 +25,8 @@ Al completar estos pasos, volver a la rama master y realizar un merge.
 $ git checkout master
 $ git merge branching
 ```
+
+
+Adjunto captura de la rama branching:
+
+![captura](https://i.imgur.com/PBOziqV.jpg)
